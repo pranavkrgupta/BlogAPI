@@ -1,0 +1,23 @@
+{
+  "name": "simpleblog",
+  "version": "1.0.0",
+  "description": "Blog API backend CRUD operations",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "express",
+    "mongoose",
+    "nosql",
+    "restful",
+    "APIs"
+  ],
+  "author": "pranavkrgupta",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.21.0",
+    "mongoose": "^8.6.3"
+  }
+}
